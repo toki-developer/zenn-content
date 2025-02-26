@@ -1,3 +1,4 @@
-# Zenn CLI
+# 記事
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+- Zenn の記事は[コチラ](https://zenn.dev/toki_dev) (2025~)
+- Qiita の記事は[コチラ](https://qiita.com/toki_dev) (~2024)
